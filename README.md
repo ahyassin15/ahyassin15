@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ahmed Yassin 👋</h1>
-<h3 align="center">2nd-Year Software Engineering student @ McMaster University, building innovative projects for learning and to showcase my skill set</h3>
+<h3 align="center">Software Engineering Student @ McMaster University, building innovative projects and continuously learning.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahyassin15" alt="ahyassin15" /></a> </p>
 
