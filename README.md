@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Ahmed Yassin 👋</h1>
 <h3 align="center">Software Engineering Student @ McMaster University, building innovative projects and continuously learning.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahyassin15" alt="ahyassin15" /></a> </p>
-
 - 🔭 I’m currently working on [Blackjack Application](https://github.com/ahyassin15/Blackjack-Application)
 
 - 🌱 I’m currently learning **AI/ML libraries, C++, and Frontend**
