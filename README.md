@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Ahmed Yassin 👋</h1>
 <h3 align="center">Software Engineering Student @ McMaster University, building innovative projects and continuously learning.</h3>
 
-- 🔭 I’m currently working on [Blackjack Application](https://github.com/ahyassin15/Blackjack-Application)
+- 🔭 I’m currently working on **NLP Research**
 
-- 🌱 I’m currently learning **AI/ML libraries, C++, and Frontend**
+- 🌱 I’m currently learning **AI/ML, C++, and Frontend**
 
-- 👯 I’m looking to collaborate on **AI/ML projects**
+- 👯 I’m looking to collaborate on **AI/ML Projects and Full-Stack Apps**
 
 - 📫 How to reach me **ah.yassin05@gmail.com**
 
-- ⚡ Fun fact **I like to stay active through sports like competitive swimming, soccer, and squash**
+- ⚡ Fun fact **I like to stay active through sports like competitive swimming, soccer, and squash!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
