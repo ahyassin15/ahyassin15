@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI/ML, C++, Frontend**
 
-- 👯 I’m looking to collaborate on **AI/ML projects**
+- 👯 I’m looking to collaborate on **Full-stack applications and AI/ML projects**
 
 - 📫 How to reach me **ah.yassin05@gmail.com**
 
