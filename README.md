@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ahmed Yassin 👋</h1>
 <h3 align="center">Tech-passionate 3rd Year Software Engineering student @ McMaster University, building various projects and sharing them on my GitHub!</h3>
 
-- 🔭 I’m currently working on **NLP Research**
+- 🔭 I’m currently working on **NLP Research and BlindSpot**
 
 - 🌱 I’m currently learning **AI/ML, C++, Frontend**
 
